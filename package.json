@@ -4,7 +4,7 @@
     "license": "MIT",
     "description": "Application to create notes",
     "private": true,
-    "author": "Fr0ntender",
+    "author": "Eduard Kirilov <kev987.free@ya.ru>",
     "scripts": {
         "start": "nodemon -r dotenv/config src/index.js dotenv_config_path=.env.development"
     },
